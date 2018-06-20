@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254646159288",
+    "firebase_url": "https://androidrhcolonial.firebaseio.com",
+    "project_id": "androidrhcolonial",
+    "storage_bucket": "androidrhcolonial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254646159288:android:d27eb557d1e7e89d",
+        "android_client_info": {
+          "package_name": "com.example.hp.androidrhcolonial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254646159288-gis1sbg5mpd5b3khms4u576poib6fsmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.androidrhcolonial",
+            "certificate_hash": "9148ebf25c678023974f11bfaa720ff79076287b"
+          }
+        },
+        {
+          "client_id": "254646159288-oipupm5i68fm3o9pghao9tfg83rrdf12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOU5N1wtrU5TS_XKHWqA6PMsJNOASKH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254646159288-oipupm5i68fm3o9pghao9tfg83rrdf12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
